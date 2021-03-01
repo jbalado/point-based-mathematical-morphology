@@ -4,7 +4,7 @@ Created by Jesús Balado Frías, Peter van Oosterom, Lucía Díaz-Vilariño and 
 
 ## Introduction
 
-
+Mathematical morphology is a typical image processing technique. Its uses are diverse: shape detection, segmentation, measurement, filtering, hole filling, etc. The present code adapts the two main functions of mathematical morphology (erosion and dilation) for direct use in point clouds.
 
 ## Work
 
@@ -20,7 +20,7 @@ The code consists of two fundamental functions: erosion and dilation. Both funct
 * Point cloud input: composed of an Nx3 matrix, where N is the number of points. It is the objective point cloud of the dilatation or erosion process.
 * Point cloud strutcturing element: composed of an Nx3 matrix, where N is the number of points. It is the auxiliary point cloud that acts as a structuring element.
 
-The output is an eroded or dilated point cloud. The eorsion and dilation functions can be combined to generate morphological openings and closings. In the example.m file, there is example code for using both functions.
+The output is an eroded or dilated point cloud. The erosion and dilation functions can be combined to generate morphological openings and closings. In the example.m file, there is example code for using both functions.
 
 
 ## Citation
