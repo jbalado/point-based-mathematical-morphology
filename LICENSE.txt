@@ -1,7 +1,7 @@
 MIT License
 
 Point Based Matemathical Morphology
-Copyright (c) 2020 University of Vigo
+Copyright (c) 2020 University of Vigo, TUDelft
 Copyright (c) 2020 Jesús Balado Frías, Peter van Oosterom, Lucía Díaz-Vilariño and Martijn Meijers.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
