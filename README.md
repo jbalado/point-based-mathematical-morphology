@@ -2,6 +2,8 @@
 
 Created by Jesús Balado Frías, Peter van Oosterom, Lucía Díaz-Vilariño and Martijn Meijers.
 
+Tutorials in Spanish and English, and code in python is available [here](https://github.com/jbalado/Tutorials).
+
 ## Introduction
 
 Mathematical morphology is a typical image processing technique. Its uses are diverse: shape detection, segmentation, measurement, filtering, hole filling, etc. The present code adapts the two main functions of mathematical morphology (erosion and dilation) for direct use in point clouds.
