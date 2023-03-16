@@ -2,7 +2,7 @@
 
 Created by Jesús Balado Frías, Peter van Oosterom, Lucía Díaz-Vilariño and Martijn Meijers.
 
-Tutorials in Spanish and English, and code in python is available [here](https://github.com/jbalado/Tutorials).
+Tutorials in Spanish and English, and code in python is available [here](https://github.com/jbalado/Tutorials-MM).
 
 ## Introduction
 
